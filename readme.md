@@ -6,4 +6,4 @@
 ### Será necessário baixar as seguinte ferramentas:
 - MySQL (https://www.mysql.com/)
 - mysql-connector-java-5.1.47 (vai estar nos arquivos do código)
-### Neste trabalho foi usado o NetBeans 8.2
+#### IMPORTANTE: Neste trabalho foi usado o netbeans 8.2
