@@ -1,7 +1,7 @@
 # APS de Programação Orientada a Objetos
 
 ## Autores: Lucas Martins e Leonardo Dias
-https://github.com/lucasmcampos/APS_POO/blob/main/imagens/01.png?raw=true
+
 ### Sistema simples de cadastro em java.
 ### Será necessário baixar as seguinte ferramentas:
 - MySQL (https://www.mysql.com/)
