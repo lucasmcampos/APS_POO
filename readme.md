@@ -3,7 +3,9 @@
 ## Autores: Lucas Martins e Leonardo Dias
 
 ### Sistema simples de cadastro em java.
+#### Imagens do programa:
 ![Imagem do Programa](https://github.com/lucasmcampos/APS_POO/blob/main/imagens/01.png)
+
 ![Imagem do Programa2](https://github.com/lucasmcampos/APS_POO/blob/main/imagens/02.png)
 ### Será necessário baixar as seguinte ferramentas:
 - MySQL (https://www.mysql.com/)
